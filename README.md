@@ -1,0 +1,2 @@
+# HAISYSLOG-1
+none
